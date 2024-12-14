@@ -47,7 +47,7 @@ To configure SAP Cash Journal, it is necessary to perform following configuratio
 ## Create GL Account for Cash Journal
 **To create GL Account for Cash Journal**:
 1. Execute the TCODE **FS00** in the SAP command field. Alternatively, you can also navigate to **SPRO > Reference IMG > Financial Accounting > General Ledger Accounting**.
-
+[Sample image 1](SAP-Cash-Journal-images/image1.png)
 2. Enter the G/L account and Company codes in the respective fields.
 image 2
 3. In the Type/Description tab, in the Control in Chart of Accounts specify G/L Account Type and Account Group from the drop-down list. Enter Short Text and G/L Account long text fields.
