@@ -58,7 +58,19 @@ To configure SAP Cash Journal, it is necessary to perform following configuratio
 
 ## Setup Amount Limit
 **To set up the cash journal amount limit**:
-1. 
+1. Navigate to **SPRO > Reference IMG > Financial Accounting > Bank Accounting > Business Transactions > Cash Journal > Define Amount Limit**.
+image1
+2. In the **Change View “Cash Journal: Amount Limit”: Overview** screen, click on the **New Entries**. **Note**: In this screen, you will see a list of all previously defined amount limits.
+image2
+3. Enter Company Code, valid from date, and the maximum amount that a cash journal should hold.
+image3
+4. Click **Save** icon. The new amount limit is saved.
+image4
+5. While saving, select the **customizing request ID** in the dialog box.
+image5
+6. Press **Enter** to save the new amount limit in the system.
+image6
+
 
 
   
