@@ -49,12 +49,16 @@ To configure SAP Cash Journal, it is necessary to perform following configuratio
 1. Execute the TCODE **FS00** in the SAP command field. Alternatively, you can also navigate to **SPRO > Reference IMG > Financial Accounting > General Ledger Accounting**.
 ![Sample image 1](Projects/SAP-Cash-Journal-images/image1.png)
 2. Enter the G/L account and Company codes in the respective fields.
-image 2
+![Sample image 2](Projects/SAP-Cash-Journal-images/image2.png)
 3. In the Type/Description tab, in the Control in Chart of Accounts specify G/L Account Type and Account Group from the drop-down list. Enter Short Text and G/L Account long text fields.
-Note: Ensure to enable account capability to post automatically.
-image3
+**Note**: Ensure to enable account capability to post automatically.
+![Sample image 3](Projects/SAP-Cash-Journal-images/image3.png)
 4. Click on the Save icon next to the command field.
-image 4
+![Sample image 4](Projects/SAP-Cash-Journal-images/image4.png)
+
+## Setup Amount Limit
+**To set up the cash journal amount limit**:
+1. 
 
 
   
